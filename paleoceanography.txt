@@ -1,0 +1,50 @@
+DOCUMENT REPO ID: OCN-HIS-003
+TITLE: PALEOCEANOGRAPHY: THE ORIGIN AND EVOLUTION OF THE PLANETARY OCEAN FLOOR
+CLASSIFICATION: HISTORICAL RESEARCH COMPENDIUM
+
+================================================================================
+SECTION 1: THE ORIGIN OF LIQUID WATER AND ARCHAEAN SEAS
+================================================================================
+1.1 VOLATILE DEGASSING PERIOD (4.4 - 4.0 Billion Years Ago)
+As Earth's molten surface cooled, its early atmosphere was saturated with water vapor, carbon dioxide, nitrogen, and ammonia. 
+* Condensation Trigger: Once surface temperatures dropped below 100°C at local atmospheric pressure, torrential rains began. This continuous downpour lasted for millions of years, filling low-lying basalt basins to create the first oceans.
+* Mineral Accumulation: Early rivers eroded acidic surface rocks, carrying dissolved ions (sodium, iron, magnesium, chloride) into these early basins, setting the baseline salinity levels for the rest of Earth's history.
+
+================================================================================
+SECTION 2: SUPERCONTINENT RIFT SEQUENCES AND ANCIENT OCEANS
+================================================================================
+Ocean basins are temporary geographical features that open and close through the 300-to-500-million-year cycle of plate tectonics, known as the Wilson Cycle.
+
+2.1 THE PANTHALASSIC OCEAN (Late Paleozoic to Early Mesozoic Era)
+* Temporal Window: 300 Million to 175 Million Years Ago.
+* Geographical Scale: A massive global ocean that surrounded the supercontinent Pangea. It covered nearly 70% of Earth's surface area.
+* Modern Descendant: The Pacific Ocean formed directly from the closing stages of the Panthalassic basin as Pangea broke apart.
+
+2.2 THE TETHYS OCEAN (Mesozoic Era)
+* Spatial Context: A wedge-shaped tropical ocean situated between the ancient continents of Laurasia and Gondwana.
+* Modern Descendants: The Mediterranean Sea, Black Sea, and Caspian Sea are remaining pockets of this ancient tropical waterway.
+* Economic Value: Massive accumulation of marine organic matter along the shallow Tethyan shelves eventually formed today's primary Middle Eastern oil and gas fields.
+
+================================================================================
+SECTION 3: HISTORICAL CHRONOLOGY MATRIX OF OCEAN SEPARATION
+================================================================================
+This matrix maps tectonic movements to the formation of modern ocean basins.
+
+TIMELINE DATABANK MATRIX [REF: HIST-M-02]
+--------------------------------------------------------------------------------
+Geological Era   | Epoch/Period    | Time Horizon | Tectonic / Oceanographic Event
+--------------------------------------------------------------------------------
+Precambrian      | Archaean        | 3.8 Ga       | First chemical traces of marine life.
+Paleozoic        | Permian         | 250 Ma       | Panthalassa reaches maximum size.
+Mesozoic         | Jurassic        | 175 Ma       | Central Atlantic Ocean starts opening.
+Mesozoic         | Cretaceous      | 140 Ma       | South Atlantic splits South America from Africa.
+Cenozoic         | Eocene          | 34 Ma        | Drake Passage opens, creating the ACC.
+Cenozoic         | Pliocene        | 3.5 Ma       | Isthmus of Panama closes, splitting Atlantic/Pacific.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION 4: PALEOCEANOGRAPHIC ANXIOUS EVENTS (OAEs)
+================================================================================
+During specific warm historical periods, global ocean circulation stopped moving vertical water masses, triggering Ocean Anoxic Events (OAEs).
+* Mechanisms: Rapid volcanic activity released massive amounts of CO2, warming polar surface waters. Without cold polar waters to sink and carry oxygen down, the deep ocean lost its oxygen supply.
+* Geological Fingerprint: Thick layers of organic-rich black shales formed on the seafloor, trapping huge amounts of organic carbon.

@@ -1,0 +1,76 @@
+DOCUMENT REPO ID: OCN-DOC-001
+TITLE: GLOBAL BASIN COMPARSION AND HYDROGRAPHIC METRIC MATRICES
+CLASSIFICATION: ACADEMIC / OPEN SOURCE DATABANK
+
+================================================================================
+SECTION 1: PHYSICAL DIMENSIONS AND HYDROGRAPHIC BOUNDARIES
+================================================================================
+The planetary hydrosphere is an uninterrupted sheet of saline fluid conventionally classified into five primary marine basins: the Pacific, Atlantic, Indian, Southern, and Arctic Oceans. 
+
+1.1 THE PACIFIC BASIN
+The Pacific Ocean is the most expansive planetary water body. It reaches from the edge of the Arctic Circle down to the northern limit of the Southern Ocean at the 60th parallel south.
+* Surface Area: 165,250,000 square kilometers. It represents 46% of Earth's aquatic surface and exceeds the entirety of global terrestrial landmass combined.
+* Total Volumetric Mass: 714,000,000 cubic kilometers.
+* Mean Hydrostatic Depth: 4,280 meters.
+* Maximum Bathymetric Depressional Node: 10,928 meters within the Challenger Deep sector of the Mariana Trench System.
+* Boundary Complexity Index: Extreme on the western periphery (marginal seas, island arc subduction chains); continuous and linear on the eastern American continental shelves.
+
+1.2 THE ATLANTIC BASIN
+The Atlantic Ocean is an S-shaped basin splitting the western hemispheres (Americas) from the eastern landmasses (Europe and Africa).
+* Surface Area: 106,460,000 square kilometers.
+* Total Volumetric Mass: 310,400,000 cubic kilometers.
+* Mean Hydrostatic Depth: 3,646 meters.
+* Maximum Bathymetric Depressional Node: 8,376 meters inside the Puerto Rico Trench.
+* Primary Tectonic Feature: Split longitudinally by the Mid-Atlantic Ridge System, a major divergent plate zone producing massive seafloor crustal extension.
+
+1.3 THE INDIAN BASIN
+The Indian Ocean is locked by landmasses to the north (Asia), bounded by Africa to the west, Australia to the east, and the Southern ocean directly south.
+* Surface Area: 70,560,000 square kilometers.
+* Total Volumetric Mass: 264,000,000 cubic kilometers.
+* Mean Hydrostatic Depth: 3,890 meters.
+* Maximum Bathymetric Depressional Node: 7,290 meters along the Sunda Trench axis.
+
+1.4 THE SOUTHERN BASIN (ANTARCTIC OCEAN)
+Encircling the Antarctic continent, mapped completely from the 60th parallel south latitude.
+* Surface Area: 20,327,000 square kilometers.
+* Mean Hydrostatic Depth: 4,500 meters.
+* Circulation Dominance: Controlled by the Antarctic Circumpolar Current (ACC), driving 135 Sverdrups (million m3/s) of cold water through global conveyor gateways.
+
+1.5 THE ARCTIC BASIN
+The shallowest and most confined basin, focused over the North Pole.
+* Surface Area: 14,056,000 square kilometers.
+* Mean Hydrostatic Depth: 1,038 meters.
+* Cryospheric State: Regulated via dynamic multi-year sea ice shields, forming the planet's primary solar feedback loop.
+
+================================================================================
+SECTION 2: CORE HYDROCHEMICAL COMPARISON MATRIX
+================================================================================
+The following chemical vectors define the density gradients required to fuel global thermohaline conveyor systems.
+
+MATRIX DATA SECTION [REF: MAT-A-01]
+--------------------------------------------------------------------------------
+Ocean Basin  | Mean Surface Temp (°C) | Deep Basin Temp (°C) | Base Salinity (PSU)
+--------------------------------------------------------------------------------
+Pacific      | 19.1                   | 1.5                  | 34.62
+Atlantic     | 16.9                   | 2.1                  | 34.90
+Indian       | 22.0                   | 1.8                  | 34.76
+Southern     | -1.8                   | 0.5                  | 34.40
+Arctic       | -1.5                   | -0.8                 | 32.50
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION 3: GLOBAL OCEAN CIRCULATION CONVEYOR SYSTEMS
+================================================================================
+Deep ocean currents are propelled by changes in water density, controlled by temperature and salinity levels. 
+
+3.1 DEEP WATER GENESIS LOCATIONS
+* Labrador Sea Deep Node: Located in the North Atlantic. Cold surface air creates heavy, salty water that sinks to form North Atlantic Deep Water (NADW).
+* Weddell Sea Brine Node: Located in the Southern Ocean. Ice formation squeezes salt out into the remaining water, creating Antarctic Bottom Water (AABW), the densest water mass on Earth.
+
+3.2 SUBTROPICAL SURFACE GYRES
+Wind patterns organize major surface currents into five massive, rotating loops:
+1. North Atlantic Gyre: Composed of the Gulf Stream, North Atlantic Current, Canary Current, and North Equatorial Current.
+2. South Atlantic Gyre: Composed of the Brazil Current, Antarctic Circumpolar Current, Benguela Current, and South Equatorial Current.
+3. North Pacific Gyre: Composed of the Kuroshio Current, North Pacific Current, California Current, and North Equatorial Current.
+4. South Pacific Gyre: Composed of the East Australian Current, Antarctic Circumpolar Current, Humboldt Current, and South Equatorial Current.
+5. Indian Ocean Gyre: Composed of the Agulhas Current, Antarctic Circumpolar Current, West Australian Current, and South Equatorial Current.

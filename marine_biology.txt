@@ -1,0 +1,69 @@
+DOCUMENT REPO ID: OCN-BIO-002
+TITLE: BIOLOGICAL TAXONOMICAL INVENTORY ACROSS VERTICAL OCEAN STRATA
+CLASSIFICATION: DATA LOG / ECOSYSTEM TAXONOMY
+
+================================================================================
+SECTION 1: STRUCTURAL DEPTH ZONES (VERTICAL BIOMASS STRATIFICATION)
+================================================================================
+Marine organisms are strictly isolated by their adaptation to light, pressure, and temperature across five distinct vertical pelagic water zones:
+
+1.1 THE EPIPELAGIC ZONE (Sunlight Zone)
+* Spatial Boundary: 0 meters down to 200 meters.
+* Light Status: Complete solar penetration; supports primary photosynthesis.
+* Primary Biomass: Phytoplankton, zooplankton, apex predatory fish, marine mammals.
+
+1.2 THE MESOPELAGIC ZONE (Twilight Zone)
+* Spatial Boundary: 200 meters down to 1,000 meters.
+* Light Status: Minimal blue-green spectrum light; insufficient for plant growth.
+* Phenomenon: Diel Vertical Migration (DVM). Billions of organisms move up to the Epipelagic zone at night to feed and return down during the day to hide.
+
+1.3 THE BATHYPELAGIC ZONE (Midnight Zone)
+* Spatial Boundary: 1,000 meters down to 4,000 meters.
+* Light Status: Zero solar illumination. Bioluminescence is the only light source.
+* Hydrostatic Pressure: Reaches up to 400 atmospheres (atm).
+
+1.4 THE ABYSSOPELAGIC ZONE (Abyssal Plain)
+* Spatial Boundary: 4,000 meters down to 6,000 meters.
+* Temperature: Constant state between 0°C and 2°C.
+* Nutrient Input: Dependent entirely on "Marine Snow" (falling organic debris).
+
+1.5 THE HADOPELAGIC ZONE (Trench Systems)
+* Spatial Boundary: 6,000 meters down to 11,000 meters.
+* Structural Context: Found exclusively inside steep oceanic trenches.
+
+================================================================================
+SECTION 2: SPECIES TAXONOMY AND HABITAT DEPENDENCY REGISTRY
+================================================================================
+This registry profiles selected indicator species used to measure ecosystem health across different ocean depths.
+
+SPECIES RECORD PROFILE: BIO-REG-001
+* Scientific Nomenclature: Orcinus orca
+* Common Descriptor: Killer Whale
+* Taxonomical Lineage: Kingdom Animalia -> Phylum Chordata -> Class Mammalia -> Order Cetacea -> Family Delphinidae -> Genus Orcinus -> Species O. orca
+* Native Depth Zone Focus: Epipelagic Zone (0 - 200m)
+* Diet Classification: Apex Predator / Carnivore
+* Known Prey Nodes: Thunnus albacares (Yellowfin Tuna), Mirounga leonina (Elephant Seal), Balaenoptera musculus (Blue Whale).
+
+SPECIES RECORD PROFILE: BIO-REG-002
+* Scientific Nomenclature: Dosidicus gigas
+* Common Descriptor: Humboldt Squid
+* Taxonomical Lineage: Kingdom Animalia -> Phylum Mollusca -> Class Cephalopoda -> Order Oegopsida -> Family Ommastrephidae -> Genus Dosidicus -> Species D. gigas
+* Native Depth Zone Focus: Mesopelagic Zone (200 - 1000m) with nightly vertical migrations.
+* Diet Classification: Active Carnivore / Cannibalistic
+* Unique Adaptation: Visual communication via chromative flickering of skin layers.
+
+SPECIES RECORD PROFILE: BIO-REG-003
+* Scientific Nomenclature: Melanocetus johnsonii
+* Common Descriptor: Humpback Anglerfish
+* Taxonomical Lineage: Kingdom Animalia -> Phylum Chordata -> Class Actinopterygii -> Order Lophiiformes -> Family Melanocetidae -> Genus Melanocetus -> Species M. johnsonii
+* Native Depth Zone Focus: Bathypelagic Zone (1000 - 4000m)
+* Diet Classification: Ambush Carnivore
+* Symbiotic Association: Esca lure contains bioluminescent Photobacterium symbionts that attract prey in total darkness.
+
+SPECIES RECORD PROFILE: BIO-REG-004
+* Scientific Nomenclature: Eurythenes gryllus
+* Common Descriptor: Deep-Sea Scavenging Amphipod
+* Taxonomical Lineage: Kingdom Animalia -> Phylum Arthropoda -> Class Malacostraca -> Order Amphipoda -> Family Alicellidae -> Genus Eurythenes -> Species E. gryllus
+* Native Depth Zone Focus: Abyssopelagic & Hadopelagic Zones (4000 - 10000m)
+* Diet Classification: Detritivore / Scavenger
+* Metabolic Vector: Extremely high concentration of piezophilic enzymes designed to prevent cell membrane collapse under high pressures.
